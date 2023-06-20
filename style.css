@@ -141,9 +141,6 @@ section .title::after{
 .navbar .menu li a:hover{
     color: #cd0018;
 }
-.navbar.sticky .menu li a:hover{
-    color: #fff;
-}
 
 /* menu btn styling */
 .menu-btn{
